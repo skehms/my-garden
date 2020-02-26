@@ -1,0 +1,7 @@
+{
+  "name": "my_garden",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
