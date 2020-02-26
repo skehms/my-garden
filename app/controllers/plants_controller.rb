@@ -28,4 +28,5 @@ class PlantsController < ApplicationController
   def plant_params
     params.require(:plant).permit(:name, :image_url)
   end
+
 end
